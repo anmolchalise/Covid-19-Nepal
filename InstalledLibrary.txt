@@ -1,0 +1,5 @@
+// Installation Lists
+
+install.packages("shinydashboard")
+install.packages(c("httr", "jsonlite"))
+install.packages("XML", repos = "http://www.omegahat.net/R")
