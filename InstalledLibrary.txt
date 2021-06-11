@@ -2,4 +2,8 @@
 
 install.packages("shinydashboard")
 install.packages(c("httr", "jsonlite"))
-install.packages("XML", repos = "http://www.omegahat.net/R")
+install.packages("plotly")
+install.packages("ggplot2")
+
+// install.packages("XML", repos = "http://www.omegahat.net/R")
+
